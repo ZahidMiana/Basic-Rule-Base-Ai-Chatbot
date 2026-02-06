@@ -34,8 +34,8 @@ rule_based_chatbot/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/rule_based_chatbot.git
-   cd rule_based_chatbot
+   git clone https://github.com/ZahidMiana/Basic-Rule-Base-Ai-Chatbot.git
+   cd Basic-Rule-Base-Ai-Chatbot
    ```
 
 2. **Install dependencies**
@@ -66,7 +66,7 @@ rule_based_chatbot/
 
 ## 📸 Screenshot
 
-![Chatbot Interface](https://github.com/ZahidMiana/Basic-Rule-Base-Ai-Chatbot/assets/screenshot.png)
+![Chatbot Interface](assets/interface.png)
 
 The chatbot features a modern, minimalistic design with:
 - Clean white background with subtle shadows
@@ -81,13 +81,6 @@ The chatbot features a modern, minimalistic design with:
 3. Processor matches input against regex patterns
 4. Random response from matching category is selected
 5. Response is displayed in the chat window
-
-## 📸 Screenshot
-
-The chatbot features a modern gradient design with:
-- Bot messages on the left (white bubbles)
-- User messages on the right (gradient bubbles)
-- Responsive design for mobile devices
 
 ## 📄 License
 

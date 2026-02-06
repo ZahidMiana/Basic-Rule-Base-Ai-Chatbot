@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 venv/
-.env
 *.log
 .DS_Store
+config.bat
+node_modules
